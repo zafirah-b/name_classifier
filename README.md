@@ -36,3 +36,4 @@ https://debuk.wordpress.com/2015/08/22/girls-called-jack-and-boys-named-sue/
  # Code Flow
  * create dev-test and test sets by setting aside 500 names each at random, from combined list of names
  
+* https://tekeli.li/onomastikon/England-Firstnames/Coinages/Suffix.html
