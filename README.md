@@ -32,7 +32,7 @@ https://debuk.wordpress.com/2015/08/22/girls-called-jack-and-boys-named-sue/
  * determine what features to use
  * use stemming on the names to get name prefix/suffixes and map that to frequency
  * It is difficult to find a list of common prefixes/suffixes for names by gender, I only found the following: 
- * Common female name suffixes: https://tekeli.li/onomastikon/England-Firstnames/Coinages/Suffix.html
+ Common female name suffixes: https://tekeli.li/onomastikon/England-Firstnames/Coinages/Suffix.html
  
  * Future considerations - develop regex functions to handle different spellings of the same syllables/suffixes to reduce variations on the same name
  
